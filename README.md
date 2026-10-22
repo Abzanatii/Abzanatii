@@ -17,7 +17,7 @@ A Spring Boot backend for running a library: collection and physical copies, bor
 
 **Stack:** Java 21 · Spring Boot · Spring Data JPA · PostgreSQL · Flyway · JWT · Maven
 
-**Links:** [Source code](https://github.com/Abzanatii/library-management-system) · [Postman collection](https://github.com/Abzanatii/library-management-system/tree/main/postman)
+**Links:** [Source code](https://github.com/Abzanatii/library-management-system) · [Setup guide](https://github.com/Abzanatii/library-management-system#how-to-run-the-project) · [Swagger guide](https://github.com/Abzanatii/library-management-system#swagger-url) · [Postman collection](https://github.com/Abzanatii/library-management-system/tree/main/postman)
 
 ## Tech Stack
 
